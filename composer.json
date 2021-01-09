@@ -25,7 +25,7 @@
     "cweagans/composer-patches": "^1.7",
     "drupal/core-composer-scaffold": "^9.0",
     "drupal/core-recommended": "^9.0",
-    "drupal/highschool": "1.0.x-dev@dev",
+    "drupal/highschool": "^1.0",
     "drush/drush": "^10.3",
     "vlucas/phpdotenv": "^5.1",
     "webflo/drupal-finder": "^1.2"
